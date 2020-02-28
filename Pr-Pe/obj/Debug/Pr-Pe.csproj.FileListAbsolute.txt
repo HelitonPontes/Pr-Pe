@@ -1,0 +1,9 @@
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr-Pe.csprojAssemblyReference.cache
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr_Pe.Form1.resources
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr_Pe.Properties.Resources.resources
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr-Pe.csproj.GenerateResource.cache
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\bin\Debug\Pr-Pe.exe.config
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\bin\Debug\Pr-Pe.exe
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\bin\Debug\Pr-Pe.pdb
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr-Pe.exe
+C:\Users\Heliton\source\repos\Pr-Pe\Pr-Pe\obj\Debug\Pr-Pe.pdb
